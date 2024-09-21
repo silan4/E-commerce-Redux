@@ -1,11 +1,9 @@
-# Yapılacaklar
+# E-commerce
 
-- db.json daki ürün verisini çek ve ekrana bas
+![Uploading reduxx.gif…]()
 
-- 1.yol > thunk kullanmadan
-- 2.yol > thunk kullanarak
 
-# kütüphanler
+# Libraries Used 
 
 - json-server
 - axios 
@@ -13,4 +11,4 @@
 - redux 
 - redux-thunk
 - react-router-dom
-# E-commerce-Redux
+
